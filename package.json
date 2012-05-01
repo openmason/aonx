@@ -5,6 +5,8 @@
   "version": "0.0.1",
   "author": "truepattern <admin@truepattern.com>",
   "dependencies": {
+    "winston"   : ">= 0.5.11",
+    "express"   : ">= 2.5.9"
   },
   "devDependencies": [],
   "keywords": ["express", "api", "framework", "server"],
