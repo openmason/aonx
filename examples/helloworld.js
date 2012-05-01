@@ -1,3 +1,3 @@
 var aonx = require('../index');
 aonx.init();
-aonx.run();
+aonx.run(8080);
