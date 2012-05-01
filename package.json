@@ -2,12 +2,14 @@
   "name": "aonx",
   "description": "very opinionated application framework",
   "homepage": "https://github.com/truepattern/aonx",
-  "version": "0.0.3",
+  "version": "0.0.4",
   "author": "truepattern <admin@truepattern.com>",
   "dependencies": {
     "winston"   : ">= 0.5.11",
+    "underscore": ">= 1.3.3",
+
     "express"   : ">= 2.5.9",
-    "underscore": ">= 1.3.3"
+    "mongoose"  : ">= 2.6.2"
   },
   "devDependencies": [],
   "keywords": ["express", "api", "framework", "server"],

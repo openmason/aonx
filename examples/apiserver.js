@@ -10,6 +10,10 @@ config.app.secret = 'topsecret';
 // enable jsonp
 config.server =  {};
 config.server.jsonp = true;
+//  db settings
+config.db = {};
+config.db.enabled=true;
+config.db.url = 'mongodb://localhost:27017/apiserver';
 
 aonx.init(config);
 
