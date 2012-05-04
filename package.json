@@ -12,6 +12,7 @@
 
     "express"          : ">= 2.5.9",
     "express-resource" : ">= 0.2.4",
+    "express-messages" : ">= 0.0.2",
 
     "mongoose"         : ">= 2.6.2"
   },
