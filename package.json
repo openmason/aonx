@@ -2,7 +2,7 @@
   "name": "aonx",
   "description": "very opinionated application framework",
   "homepage": "https://github.com/truepattern/aonx",
-  "version": "0.0.6",
+  "version": "0.0.7",
   "author": "truepattern <admin@truepattern.com>",
   "dependencies": {
     "winston"          : ">= 0.5.11",
