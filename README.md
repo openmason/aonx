@@ -1,5 +1,5 @@
 # aonx
-Highly opinionated application framework.
+Highly opinionated server framework based on node.js, express, mongoose
 
 # Features
  * API server
