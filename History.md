@@ -1,3 +1,5 @@
+# release 0.1.1
+ * added compression to static dir (/public)
 # release 0.1.0
  * added mongoose helpers (crudHelpers)
 # release 0.0.7
