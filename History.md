@@ -1,3 +1,5 @@
+# release 0.1.2
+ * added query support to index call
 # release 0.1.1
  * added compression to static dir (/public)
 # release 0.1.0
