@@ -1,7 +1,8 @@
-# release 0.1.3
+# release 0.1.4
  * added query support to index call
  * removed X-Powered-By
  * added '/' index route to return 200
+ * jsonp params are filtered out
 # release 0.1.1
  * added compression to static dir (/public)
 # release 0.1.0
