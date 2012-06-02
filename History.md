@@ -1,3 +1,5 @@
+# release 0.2.0
+ * added ObjectId support to crudHelpers
 # release 0.1.6
  * added query support to index call
  * removed X-Powered-By
