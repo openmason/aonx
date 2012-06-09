@@ -1,5 +1,6 @@
-# release 0.2.0
+# release 0.2.1
  * added ObjectId support to crudHelpers
+ * separated mongoose.js to mongoose-helpers
 # release 0.1.6
  * added query support to index call
  * removed X-Powered-By
