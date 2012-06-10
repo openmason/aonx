@@ -27,3 +27,4 @@ Highly opinionated server framework based on node.js, express, mongoose
 
 ## Todo
  * connect 2.x has compress, once available remove gzippo
+ * add an example with auth

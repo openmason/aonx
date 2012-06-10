@@ -1,6 +1,8 @@
+# release 0.3.0
+ * added support for authentication (mongoose-auth) plugins based off of mongoose
 # release 0.2.1
  * added ObjectId support to crudHelpers
- * separated mongoose.js to mongoose-helpers
+ * separated mongoose.js to mongoose-plugins
 # release 0.1.6
  * added query support to index call
  * removed X-Powered-By
