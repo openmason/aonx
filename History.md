@@ -1,4 +1,4 @@
-# release 0.3.0
+# release 0.3.1
  * added support for authentication (mongoose-auth) plugins based off of mongoose
 # release 0.2.1
  * added ObjectId support to crudHelpers
