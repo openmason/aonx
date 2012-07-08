@@ -26,5 +26,12 @@ Highly opinionated server framework based on node.js, express, mongoose
 **ALPHA product, use at your risk, please refer to examples and todo-server**
 
 ## Todo
- * connect 2.x has compress, once available remove gzippo
- * add an example with auth
+  * connect 2.x has compress, once available remove gzippo
+  * Add authentication/authorization
+  * Rate Limiting
+  * API version support 
+  * Usage reports
+  * Monitoring
+  * Clustering the server
+  * Input validation ? (json/xml)
+  

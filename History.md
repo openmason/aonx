@@ -1,5 +1,6 @@
-# release 0.3.1
+# release 0.3.2
  * added support for authentication (mongoose-auth) plugins based off of mongoose
+ * added https support, two additional params config.server.scheme = 'https' and config.server.key and config.server.cert (filenames) 
 # release 0.2.1
  * added ObjectId support to crudHelpers
  * separated mongoose.js to mongoose-plugins
