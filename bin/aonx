@@ -2,3 +2,6 @@
 
 var aonx = require('../');
 
+// -- lets start the api server
+aonx.init();
+aonx.run();

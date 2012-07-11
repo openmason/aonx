@@ -21,12 +21,19 @@ Highly opinionated server framework based on node.js, express, mongoose
     * 503 - server busy
 
 # Features
- * API server
+  * Wrapper over ExpressJS, primarily targetted for an API server
+  * support for http/https
+  * support jsonp
+    * methods PUT/DELETE/POST can be forwarded via a _method param
+  * Easily connect to mongodb and have routes configured 
+  * Everything is driven by simple configuration
+  * Run the server in cluster mode
 
 **ALPHA product, use at your risk, please refer to examples and todo-server**
 
 ## Todo
   * connect 2.x has compress, once available remove gzippo
+  * Add mocha unit tests
   * Add authentication/authorization
   * Rate Limiting
   * API version support 
