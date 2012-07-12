@@ -1,5 +1,6 @@
-# release 0.4.1
+# release 0.4.2
  * added support for clustering
+ * added trace on console for errors
 # release 0.3.3
  * added support for authentication (mongoose-auth) plugins based off of mongoose
  * added https support, two additional params config.server.scheme = 'https' and config.server.key and config.server.cert (filenames) 
