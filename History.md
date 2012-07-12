@@ -1,4 +1,4 @@
-# release 0.4.0
+# release 0.4.1
  * added support for clustering
 # release 0.3.3
  * added support for authentication (mongoose-auth) plugins based off of mongoose
