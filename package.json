@@ -2,7 +2,7 @@
   "name": "aonx",
   "description": "very opinionated application framework",
   "homepage": "https://github.com/truepattern/aonx",
-  "version": "0.4.2",
+  "version": "0.4.3",
   "author": "truepattern <admin@truepattern.com>",
   "dependencies": {
     "winston"          : ">= 0.6.2",
@@ -16,8 +16,6 @@
 
     "mongoose"         : ">= 2.7.0",
     "mongoose-plugins" : ">= 0.3.3",
-
-    "cluster2"         : ">= 0.3.1",
 
     "gzippo"           : ">= 0.1.7"
   },
