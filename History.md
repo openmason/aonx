@@ -1,4 +1,4 @@
-# release 0.4.5
+# release 0.4.7
  * added support for clustering
  * added trace on console for errors
  * removed cluster2 as express version have issues
