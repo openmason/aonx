@@ -10,7 +10,7 @@
 
     "connect-mongodb"  : ">= 1.1.4",
 
-    "express"          : ">= 2.5.11",
+    "express"          : "2.5.11",
     "express-resource" : ">= 0.2.4",
     "express-messages" : ">= 0.0.2",
 
