@@ -1,8 +1,9 @@
-# release 0.4.4
+# release 0.4.5
  * added support for clustering
  * added trace on console for errors
  * removed cluster2 as express version have issues
  * moved to latest express with variable connection.encrypted set to secure
+ * added authentication support for api path
 # release 0.3.3
  * added support for authentication (mongoose-auth) plugins based off of mongoose
  * added https support, two additional params config.server.scheme = 'https' and config.server.key and config.server.cert (filenames) 
