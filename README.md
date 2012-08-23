@@ -1,3 +1,4 @@
+[![build status](https://secure.travis-ci.org/truepattern/aonx.png)](http://travis-ci.org/truepattern/aonx)
 # aonx
 Highly opinionated server framework based on node.js, express, mongoose
 
