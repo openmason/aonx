@@ -41,4 +41,3 @@ Highly opinionated server framework based on node.js, express, mongoose
   * Monitoring
   * Clustering the server
   * Input validation ? (json/xml)
-  

@@ -6,7 +6,7 @@
   "author": "truepattern <admin@truepattern.com>",
   "dependencies": {
     "winston"          : ">= 0.6.2",
-    "underscore"       : ">= 1.4.3",
+    "underscore"       : ">= 1.4.x",
 
     "connect-mongodb"  : ">= 1.1.4",
 
