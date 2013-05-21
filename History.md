@@ -1,4 +1,4 @@
-# release 0.5.1
+# release 0.5.2
  * upgrade to nodejs 0.8.x, express 3, mongoose 2.x
 
 # release 0.4.8
